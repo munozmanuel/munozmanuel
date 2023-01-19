@@ -1,7 +1,7 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="60%" width="" />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="219px" width="390px" />  
   
 
-### <div align="center">I'm Manuel, a motion graphics designer, currently learning web development 👨‍💻 Working remotely since 2008🚀</div>  
+### <div align="justify">I'm Manuel, a motion graphics designer, currently learning web development 👨‍💻 Working remotely since 2008🚀</div>  
   
 
 - 🚀 I’m currently working on personal projects as part of a Full Stack Bootcamp program. 💡 Learning Html, Css and Javascript.  
@@ -61,23 +61,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=munozmanuel&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
 
 <br/>  
 
@@ -86,13 +69,5 @@
 </div>  
   
 
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 ----
