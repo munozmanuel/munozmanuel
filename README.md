@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="219px" width="390px" />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="119px" width="190px" />  
   
 
 ### <div align="justify">I'm Manuel, a motion graphics designer, currently learning web development 👨‍💻 Working remotely since 2008🚀</div>  
