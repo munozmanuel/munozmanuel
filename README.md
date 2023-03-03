@@ -1,6 +1,6 @@
   
-
-### <div align="left">I'm Manuel, a motion graphics designer working remotely since 2008. Currently learning web development 👨‍💻
+# Hello!
+### <div align="left"> I'm Manuel, a motion graphics designer working remotely since 2008. Currently learning web development 👨‍💻
 ⚡ I’m currently working on personal projects as part of a Full Stack Bootcamp program. <br>
 ⚡ Learning Html, Css and Javascript.  
 <br/>  
